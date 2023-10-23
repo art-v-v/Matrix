@@ -55,8 +55,8 @@ void division(double a, double b) {
 }
 
 int main() {
-    //SetConsoleCP(1251);
-    //SetConsoleOutputCP(1251);
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
 
     //Створення масиву
     cout << "Введіть розмірність матриці: ";
